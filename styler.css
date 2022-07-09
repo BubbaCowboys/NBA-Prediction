@@ -597,7 +597,7 @@ body{
 
 .card--image {
     background-color: aqua;
-    height: 300px;
+    aspect-ratio: 3/2;
     margin-bottom: 15px;
     background-size: cover;
 }
